@@ -1,0 +1,7 @@
+D:\IsDB-IT PROJECT\loopPractise\bin\Debug\loopPractise.exe.config
+D:\IsDB-IT PROJECT\loopPractise\bin\Debug\loopPractise.exe
+D:\IsDB-IT PROJECT\loopPractise\bin\Debug\loopPractise.pdb
+D:\IsDB-IT PROJECT\loopPractise\obj\Debug\loopPractise.csproj.AssemblyReference.cache
+D:\IsDB-IT PROJECT\loopPractise\obj\Debug\loopPractise.csproj.CoreCompileInputs.cache
+D:\IsDB-IT PROJECT\loopPractise\obj\Debug\loopPractise.exe
+D:\IsDB-IT PROJECT\loopPractise\obj\Debug\loopPractise.pdb
